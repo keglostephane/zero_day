@@ -4,7 +4,7 @@ This project aims to get familiar with **Vagrant**.
 
 ## What is Vagrant ?
 
-Vagrant is a tool that sits a top of Virtualization software and enable to create and configure isolated environment called `boxes` application development.
+Vagrant is a tool that sits a top of Virtualization software and enable to create and configure isolated environment called `boxes` useful for application development.
 
 ## Some useful Vagrant commands
 
